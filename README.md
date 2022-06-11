@@ -1,7 +1,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FysbaekFox&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-![C++](https://img.shields.io/badge/C++-#00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-badge&logo=Qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-007396.svg?&style=for-the-badge&logo=CMake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![Boost](https://img.shields.io/badge/Boost-F7901E.svg?&style=for-the-badge&logo=Boost&logoColor=white)
 <!--
 **ysbaekFox/ysbaekFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
