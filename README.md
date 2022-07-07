@@ -8,6 +8,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-bacge&logo=Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-bacge&logo=Ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-bacge&logo=Windows&logoColor=white)
+  
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-bacge&logo=C%2B%2B&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-007396.svg?&style=for-the-bacge&logo=CMake&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-bacge&logo=Visual%20Studio&logoColor=white)
