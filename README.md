@@ -17,7 +17,9 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysbaekFox)](https://github.com/ysbaekFox/github-readme-stats)-->
 
-![effective-modern-cpp](./favicon/effective-modern-cpp-180x180.png)
+🌱 I’m currently learning ...  
+  
+<img src = "./favicon/effective-modern-cpp-180x180.png" width="50" height="50">. Effective Modern C++ (Scott Meyers)
 
 <!--
 **ysbaekFox/ysbaekFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
