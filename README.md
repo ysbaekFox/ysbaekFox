@@ -17,9 +17,13 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysbaekFox)](https://github.com/ysbaekFox/github-readme-stats)-->
 
-🌱 I’m currently learning ...  
+## ✨ 완독 !!
+| <img src = "./favicon/effective-cpp-180x180.png.png" width="50" height="50"> | **Effective C++ (Scott Meyers)** | 1 cycle |
+| ---  |  --- | --- |
   
-<img src = "./favicon/effective-modern-cpp-180x180.png" width="50" height="50">. Effective Modern C++ (Scott Meyers)
+## 🌱 공부 중
+| <img src = "./favicon/effective-modern-cpp-180x180.png" width="50" height="50"> | **Effective Modern C++ (Scott Meyers)** | ~ Chater 5 |
+| ---  |  --- | --- |
 
 <!--
 **ysbaekFox/ysbaekFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
