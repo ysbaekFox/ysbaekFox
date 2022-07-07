@@ -18,7 +18,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysbaekFox)](https://github.com/ysbaekFox/github-readme-stats)-->
 
 ## ✨ 완독 !!
-| <img src = "./favicon/effective-cpp-180x180.png.png" width="50" height="50"> | **Effective C++ (Scott Meyers)** | 1 cycle |
+| <img src = "./favicon/effective-cpp-180x180.png" width="50" height="50"> | **Effective C++ (Scott Meyers)** | 1 cycle |
 | ---  |  --- | --- |
   
 ## 🌱 공부 중
