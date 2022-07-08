@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-bacge&logo=Python&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-bacge&logo=PyCharm&logoColor=white)
 
-### :pencil2: I have experience ( or learning )
+### :pencil2: I have experienced ( or I'm learning )
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?&style=for-the-bacge&logo=Qt&logoColor=white)
 
 </div>
