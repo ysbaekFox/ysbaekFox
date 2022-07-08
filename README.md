@@ -30,12 +30,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=to45123)](https://solved.ac/to45123/)
 
 ## ✨ Finished !!
-| <img src = "./favicon/effective-cpp-180x180.png" width="50" height="50"> | **Effective C++ (Scott Meyers)** | 1 cycle | https://ysbaekfox.github.io/categories/effectcpp |
+|   | title | progress  | remark  |
 | ---  |  --- | --- | --- |
+| <img src = "./favicon/effective-cpp-180x180.png" width="50" height="50"> | **Effective C++ (Scott Meyers)** | 1 cycle | https://ysbaekfox.github.io/categories/effectcpp |
   
 ## 🌱 Reading !!
-| <img src = "./favicon/effective-modern-cpp-180x180.png" width="50" height="50"> | **Effective Modern C++ (Scott Meyers)** | ~ Chater 5 | https://github.com/ysbaekFox/EffectiveModernCpp_ysbaekFox |
+|   | title | progress  | remark  |
 | ---  |  --- | --- | --- |
+| <img src = "./favicon/effective-modern-cpp-180x180.png" width="50" height="50"> | **Effective Modern C++ (Scott Meyers)** | ~ Chater 5 | https://github.com/ysbaekFox/EffectiveModernCpp_ysbaekFox |
+| <img src = "./images/template_complete_guide.jpg" width="50" height="50"> | **C++ Templates - The Complete Guide** | | |
+| <img src = "./images/concurrency-in-action.jpg" width="50" height="50"> | **C++ Concurrency in Action** | | |
 
 <!--
 **ysbaekFox/ysbaekFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
