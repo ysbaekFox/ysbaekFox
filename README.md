@@ -1,9 +1,12 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysbaekFox)](https://github.com/ysbaekFox/github-readme-stats)-->
 
+## Motto
+- **회사는 나의 커리어를 책임져주지 않는다, 그러므로 나 스스로 성장하자.**
+
 ## BOJ Score
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=to45123)](https://solved.ac/to45123/)
 
-## ✨ BIBLE !! 🌱
+## ✨ C++ BIBLEs !! 🌱
 |   | title | remark  |
 | ---  |  --- | --- |
 | <img src = "./favicon/effective-cpp-180x180.png" width="50" height="50"> | **Effective C++ (Scott Meyers)** | https://ysbaekfox.github.io/categories/effectcpp |
