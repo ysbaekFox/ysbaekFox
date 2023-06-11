@@ -1,7 +1,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysbaekFox)](https://github.com/ysbaekFox/github-readme-stats)-->
 
-## Motto
-- **회사는 나의 커리어를 책임져주지 않는다, 그러므로 나 스스로 성장하자.**
+## LifeCycle
+- **10시 퇴근 후 #NFGU**
 
 ## BOJ Score
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=to45123)](https://solved.ac/to45123/)
